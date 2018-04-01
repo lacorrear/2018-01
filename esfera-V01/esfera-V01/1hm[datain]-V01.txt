@@ -1,0 +1,26 @@
+1. rho[kg/m3]=
+1000
+2. Cdx=
+0.47
+3. R[m]=
+0.01
+4. M[kg]=
+1
+5. U[m/s2]=
+10
+6. Cdy=
+0.4
+7. Ao=
+3
+8. Kx=
+0.02
+9. Ky=
+0.03
+10. w=
+0.2
+11. Delta de tiempo
+0.01
+12. Tiempo inicial
+0.0
+13. Tiempo final
+100.0
